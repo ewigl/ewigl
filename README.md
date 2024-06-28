@@ -6,4 +6,4 @@
 
 <!-- hide html -->
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ewigl&layout=compact)](https://github.com/ewigl?tab=repositories) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ewigl&layout=compact)](https://github.com/ewigl?tab=repositories)
